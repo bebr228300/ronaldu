@@ -1,0 +1,63 @@
+div{
+  background-color: aliceblue;
+  border-radius: 10px;
+  border: 3px double blueviolet;
+
+  }
+  .bebra {
+    border: 5px double blueviolet;
+    border-radius: 11px;
+    background-color: azure;
+    
+  }
+  .mam:hover{
+    
+    color: green;
+  }
+  .interest img{
+    width: 300px;
+    height: 200px;
+  }
+  .ema:hover{
+   color: red;
+  }
+  img{
+    border: 5px double blueviolet;
+  }
+  .ramam img{
+    width: 300px;
+    height: 200px;
+  }
+  tr{
+    border: 3px solid red;
+
+  }
+  td{
+    border: 3px solid red;
+    text-align: center;
+  
+  }
+  table{
+    
+    border-collapse: collapse;
+    border: 3px solid red;
+    width: 700px;
+    height: 600px;
+    
+  }
+   .dddad{
+    border-radius: 10px;
+    background-color: whitesmoke;
+  }
+  .dddad li{
+    width: 100px;
+    height: 100px;
+  }
+  .nail:hover{
+    color: blue;
+  }
+    
+  
+  
+  
+
